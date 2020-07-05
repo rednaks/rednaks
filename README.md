@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about FreeSoftware and Python !
+💬 Ask me about FreeSoftware and Python !
 
 <!--
 **rednaks/rednaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
